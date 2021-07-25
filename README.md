@@ -1,6 +1,12 @@
 # dupremove
 Remove duplicate strings, integers and lot more with multithreading
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub release](https://img.shields.io/github/release/DevanshRaghav75/dupremove.svg)](https://GitHub.com/DevanshRaghav75/dupremove/releases/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/DevanshRaghav75/dupremove.svg)](https://github.com/DevanshRaghav75/dupremove/blob/master/LICENSE.md)
+
 # Installation
 
 ```
@@ -11,9 +17,7 @@ $ dupremove
 ```
 
 # Usage
-
 for ex. I have created a file called `dups.txt` and this is the content of `dups.txt` file:
-
 ```
 $ cat dups.txt
 hack
