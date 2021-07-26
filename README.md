@@ -19,7 +19,8 @@ $ dupremove
 # Usage
 for ex. I have created a file called `dups.txt` and this is the content of `dups.txt` file:
 ```
-$ cat dups.txt
+┌──(root💀devansh)-[~]
+└─# cat dups.txt
 hack
 fake
 lol
