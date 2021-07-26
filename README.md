@@ -1,5 +1,5 @@
 # dupremove
-dupremove is a multithreaded tool which reads file from stdin and removes all the duplicate strings, integers and lot more.
+dupremove is a multithreaded tool which reads file from `stdin` and removes all the duplicate `strings`, `integers` and lot more.
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub release](https://img.shields.io/github/release/DevanshRaghav75/dupremove.svg)](https://GitHub.com/DevanshRaghav75/dupremove/releases/)
